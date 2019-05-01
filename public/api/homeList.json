@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 5,
+      "title": "Thai cave rescue boys sign Netflix deal for miniseries",
+      "desc": "(CNN)The twelve Thai boys and their soccer coach who were trapped in a flooded cave last summer will soon tell their story on Netflix. On Tuesday, they formally signed a deal with the online streaming giant.",
+      "imgUrl": "https://cdn.cnn.com/cnnnext/dam/assets/190430090452-02-thai-cave-boys-netflix-deal-exlarge-169.jpg"
+    },
+    {
+      "id": 6,
+      "title": "'Game of Thrones' ending comes with HBO at a crossroads Brian Lowry byline",
+      "desc": "When 'The Sopranos' went black in 2007, there was speculation that HBO might never generate another hit of that magnitude.",
+      "imgUrl": "https://cdn.cnn.com/cnnnext/dam/assets/130319135039-game-of-thrones-cast-horizontal-large-gallery.jpg"
+    },
+    {
+      "id": 7,
+      "title": "A real life Schitt's Creek: What it's like to own a whole town",
+      "desc": "Rick Hofstetter has been married and divorced three times, but he has one love that has outlasted them all: Story, Indiana.",
+      "imgUrl": "https://cdn.cnn.com/cnnnext/dam/assets/190425141753-buying-a-town-1-exlarge-169.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Burger King plans to roll out Impossible Whopper across the United States",
+      "desc": "Burger King's test of a vegetarian version of its signature Whopper was such a success, the chain is planning to roll the Impossible Whopper out nationally this year.",
+      "imgUrl": "https://cdn.cnn.com/cnnnext/dam/assets/190428095913-02-burger-king-impossible-whoppers-rollout-exlarge-169.jpg"
+    }
+  ]
+}
